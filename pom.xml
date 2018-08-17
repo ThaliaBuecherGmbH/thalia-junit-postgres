@@ -13,6 +13,8 @@
         Thalia JUnit Rule for Testing with Postgres
     </description>
 
+    <url>https://github.com/ThaliaBuecherGmbH/thalia-junit-postgres</url>
+
     <scm>
         <url>https://github.com/ThaliaBuecherGmbH/thalia-junit-postgres</url>
         <connection>scm:git:https://github.com/ThaliaBuecherGmbH/thalia-junit-postgres.git</connection>
