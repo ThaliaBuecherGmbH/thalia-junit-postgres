@@ -1,6 +1,6 @@
 # Thalia JUnit Rule for Embedded PostgreSQL testing
 
-[![Build Status](https://travis-ci.org/ThaliaBuecherGmbH/thalia-junit-postgres.svg?branch=master)](https://travis-ci.org/ThaliaBuecherGmbH/thalia-trace-starter) [![Maven Central](https://maven-badges.herokuapp.com/maven-central/de.thalia.junit/postgres-rule/badge.svg)](https://maven-badges.herokuapp.com/maven-central/de.thalia.junit/postgres-rule)
+[![Build Status](https://travis-ci.org/ThaliaBuecherGmbH/thalia-junit-postgres.svg?branch=master)](https://travis-ci.org/ThaliaBuecherGmbH/thalia-junit-postgres) [![Maven Central](https://maven-badges.herokuapp.com/maven-central/de.thalia.junit/postgres-rule/badge.svg)](https://maven-badges.herokuapp.com/maven-central/de.thalia.junit/postgres-rule)
 
 ## Why
 
